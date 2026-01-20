@@ -46,6 +46,6 @@ streamlit run hybrid_pdf_rag.py
 
 ## License
 
-Add your preferred license here (e.g., MIT License).
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/doaamostafa67988/Chat_with_pdf/blob/main/LICENSE) file for details.
 
 ---
