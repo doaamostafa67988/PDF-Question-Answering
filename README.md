@@ -3,7 +3,7 @@
 
 # Chat with PDF using Hybrid RAG
 
-A simple Retrieval-Augmented Generation (RAG) system built with **Nomic**, **Llama 3.2**, LangChain, and Streamlit that enables you to chat with PDFs and answer complex questions about your local documents. This project improves RAG accuracy by leveraging a hybrid approach combining semantic embeddings and BM25 retrieval.
+A hybrid Retrieval-Augmented Generation (RAG) system built with **Nomic**, **Llama 3.2**, LangChain, and Streamlit that enables you to chat with PDFs and answer complex questions about your local documents. This project improves RAG accuracy by leveraging a hybrid approach combining semantic embeddings and BM25 retrieval.
 
 ## Features
 
